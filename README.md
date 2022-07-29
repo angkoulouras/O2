@@ -1,5 +1,5 @@
 
-## O^2 
+## $O^2$ 
 Optimized Oversampling.
 
 ## Usage 
